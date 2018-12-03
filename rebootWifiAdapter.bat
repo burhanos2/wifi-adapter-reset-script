@@ -1,5 +1,5 @@
 @echo off
-@title Fixing the damn school wifi
+@title Resetting Adapters
 netsh interface set interface "Wi-Fi" admin=disable
 netsh interface set interface "Ethernet" admin=disable
 TIMEOUT 1
