@@ -1,4 +1,6 @@
 # wifi-adapter-reset-script
 this is something i made to combat the terrible school wifi not working
 
-its best to make a shortcut for this that automatically asks for admin rights(i tried making a preset)
+its best to make a shortcut for this that automatically asks for admin rights
+you can also make the shortcut execute on a key combination
+(i tried making a preset shortcut)
