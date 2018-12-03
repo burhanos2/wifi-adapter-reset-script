@@ -16,4 +16,4 @@ you can also make the shortcut execute on a key combination:
 1. right click the shortcut you made
 2. click on 'Properties'
 3. look at 'shortcut key' and edit that to what you want it to be
-// the shortcut works when you are inside an application, it does not seem to work when you're on your desktop
+4. using it: the shortcut works when you are inside an application, it does not seem to work when you're on your desktop
