@@ -4,7 +4,7 @@ it needs to run in administrator to work
 
 
 its best to make a shortcut for this that automatically asks for admin rights, this is how:
-1. make a shortcut for the .bat file (right click then either 'create shortcut' OR 'send to' > 'desktop'
+1. make a shortcut for the .bat file (right click then either 'create shortcut' OR 'send to' > 'desktop')
 2. right click the shortcut you made
 3. click on 'Properties'
 4. click on 'Advanced'
