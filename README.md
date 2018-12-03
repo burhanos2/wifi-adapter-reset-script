@@ -9,11 +9,12 @@ its best to make a shortcut for this that automatically asks for admin rights, t
 3. click on 'Properties'
 4. click on 'Advanced'
 5. check 'Run as administrator'
-6. press ok twice to close the windows
+6. press 'ok' twice to close the windows
 
 
 you can also make the shortcut execute on a key combination:
 1. right click the shortcut you made
 2. click on 'Properties'
 3. look at 'shortcut key' and edit that to what you want it to be
-4. using it: the shortcut works when you are inside an application, it does not seem to work when you're on your desktop
+4. press 'ok' to close the window
+5. using it: the shortcut works when you are inside an application, it does not seem to work when you're on your desktop
